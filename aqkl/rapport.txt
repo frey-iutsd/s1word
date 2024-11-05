@@ -1,0 +1,42 @@
+Rapport de Projet : Déploiement d'un Réseau Informatique et Sécurisation des Données
+#Résumé du projet
+Le projet de déploiement d'un réseau informatique au sein de l'entreprise **TechSolutions** vise à moderniser les infrastructures internes, améliorer la communication entre les départements, et sécuriser les données sensibles des clients. Le projet s'étend sur trois mois, de la phase d'analyse des besoins à la mise en production, et inclut la formation des utilisateurs. Avec l'évolution des cybermenaces, un accent particulier a été mis sur la sécurité, la fiabilité et la flexibilité du réseau.
+#Objectifs principaux du projet
+1. **Connectivité améliorée** : Assurer une communication efficace et rapide entre les équipes, quel que soit leur emplacement.
+2. **Sécurisation renforcée** : Protéger les informations des clients et les données confidentielles à travers des protocoles de sécurité avancés.
+3. **Gestion optimisée des ressources** : Faciliter le partage des documents et logiciels via un serveur centralisé, accessible à tous les collaborateurs de manière sécurisée.
+4. **Adaptabilité pour les futurs besoins** : Prévoir une architecture modulaire permettant l'ajout de nouveaux utilisateurs et appareils sans refaire l'infrastructure.
+#Structure de l'équipe de projet
+Nom	Rôle	Département	E-Mail
+Alexia Dupont	Cheffe de projet	IT	alexia.dupont@t-sol.fr
+Malik Benali	Analyste en données	Analyse	malik.benali@t-sol.fr
+Fatou Diouf	Ingénieure	Sécurité	fatou.diouf@t-sol.fr
+Jia Wang	Développeur front-end	Développement	jia.wang@t-sol.fr
+Samira Kahn	Responsable des opérations	Administration	samira.kahn@t-sol.fr
+#Étapes du projet et calendrier
+Phase	Description	Début	Fin
+Analyse des besoins	Recueil des attentes et contraintes des départements	01/09/2024	15/09/2024
+Conception de l'architecture réseau	Planification de l'architecture réseau et sélection des équipements	16/09/2024	30/09/2024
+Installation physique	Mise en place des câblages, routeurs, et serveurs	01/10/2024	10/10/2024
+Configuration réseau	Configuration des pare-feu et sécurisation du réseau	11/10/2024	15/10/2024
+Test et validation	Tests de performance, vérifications de sécurité	16/10/2024	25/10/2024
+Formation utilisateurs	Session de formation pour employés	26/10/2024	30/10/2024
+#Détails des étapes clés
+* **Analyse des besoins** : Réunions avec les départements pour identifier leurs besoins en connectivité, stockage et confidentialité. Des questionnaires ont été envoyés pour prioriser les attentes et prévoir les ressources.
+* **Conception de l'architecture réseau** : Choix d'une architecture LAN avec extension VPN pour le télétravail. Schéma détaillé élaboré pour optimiser le routage. Équipements sélectionnés : routeurs Cisco, switchs intelligents, serveurs HP ProLiant.
+* **Installation physique** : Mise en place des équipements incluant câblage, points d'accès et bornes Wi-Fi. Installation d'armoires de serveurs sécurisées avec ventilation.
+* **Configuration réseau** : Configuration des pare-feu pour restreindre l'accès aux données sensibles. Mise en place de protocoles de cryptage et création d'identifiants personnalisés pour un accès sécurisé.
+* **Tests et validation** : Tests de performance et de sécurité du réseau, vérifiant les temps de réponse et la résistance aux cyberattaques. Amélioration significative de la vitesse de connexion par rapport à l'ancien système.
+* **Formation des utilisateurs** : Formation pour familiariser les employés avec la nouvelle infrastructure et sessions sur la sécurité informatique pour sensibiliser aux bonnes pratiques.
+#Budget estimé
+Équipements réseau : 15.000 €
+Logiciels de sécurité : 7.000 €
+Formation des utilisateurs : 3.000 €
+Maintenance et support : 5.000 €
+Total : 30.000 €
+#Conclusion et recommandations
+Le projet d'implantation du réseau informatique est une réussite, offrant une infrastructure plus performante, sécurisée et prête pour les futures évolutions de l'entreprise. Grâce aux mesures de sécurité avancées, le risque de cyberattaques est fortement réduit. Nous recommandons de réaliser des audits de sécurité trimestriels pour garantir la sécurité continue du réseau, ainsi que de prévoir des sessions de formation régulières pour maintenir les bonnes pratiques de sécurité.
+#Informations personnelles
+* Nom : [À remplir par l'étudiant]
+* Adresse email : [À remplir par l'étudiant]
+* Numéro d'étudiant : [À remplir par l'étudiant]
